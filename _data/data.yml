@@ -5,42 +5,39 @@
 sidebar:
     # Site Settings
     title: My Resume
-    url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    url: 'https://chrispiemonte.github.io/online-cv'
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Chris Piemonte
+    tagline: Software Developer
+    pic: prof.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: chris.piemonte.nj@gmail.com
+    phone: 
+    website: #do not add http://
+    linkedin: cpiemonte
+    github: chrisPiemonte
+    twitter: 
 
     languages:
         - language:
-          idiom: English
+          idiom: Italian
           level: Native
         - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
+          idiom: English
           level: Professional
         
     interests:
         - interest:
-          item: Climbing
+          item: 
           link:
         - interest:
-          item: Snowboarding
+          item: 
           link:
         - interest:
-          item: Cooking
+          item: 
           link:
 
         
