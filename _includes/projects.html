@@ -19,7 +19,11 @@
       {% endif %}
       
       {% if project.technologies %}
-      </br>- <b>Technologies: </b><span class="project-tagline">{{ project.technologies }}</span>
+      </br>- <p class="project-kind-of-title">Technologies: </p><span class="project-tagline">{{ project.technologies }}</span>
+      {% endif %}
+      
+      {% if project.documentation %}
+      </br>- <p class="project-kind-of-title">Documentation: </p><span class="summary">{{ project.documentation }}</span>
       {% endif %}
 
     </div><!--//item-->
