@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Chris Piemonte
     tagline: Data Scientist
-    pic: prof.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: chris.piemonte.nj@gmail.com
@@ -46,8 +46,8 @@ sidebar:
 
 
 career-profile: 
-    - title: Da
-      text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    title: Data Scientist at <a href="https://www.prometeia.it/home" target="_blank">Prometeia</a>
+    text: 'Uso of analytical, statistical, and programming skills to collect, analyze, and interpret large data sets. Development of data-driven solutions to difficult business challenges, mainly for banks and insurance companies. Development of rule-based systems, ETL solutions for Big Data analysis, Deep Learning models, analytical internal libraries.'
 
 
 studies: 
@@ -68,8 +68,7 @@ The experimental results produced proved to be discreet and encouraged to follow
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "A list of relevant public projects on my GitHub profile."
     
     projects:
       - project:
@@ -135,8 +134,14 @@ skills:
           name: Python
           level: 90%
         - skill:
-          name: Scala
-          level: 70%
+          name: Artificial Intelligence
+          level: 90%
+        - skill:
+          name: Machine Learning
+          level: 90%
+        - skill:
+          name: SQL
+          level: 90%
         - skill:
           name: Data Science
           level: 85%
@@ -144,17 +149,14 @@ skills:
           name: Software Engineering
           level: 85%
         - skill:
-          name: Artificial Intelligence
-          level: 90%
-        - skill:
-          name: Machine Learning
-          level: 90%
-        - skill:
           name: Deep Learning
           level: 80%
         - skill:
-          name: Natural Language Processing
-          level: 60%
+          name: MySQL
+          level: 80%
+        - skill:
+          name: Scala
+          level: 70%
         - skill:
           name: Spark
           level: 70%
@@ -162,11 +164,11 @@ skills:
           name: Big Data
           level: 70%
         - skill:
-          name: SQL
-          level: 90%
+          name: Docker
+          level: 70%
         - skill:
-          name: MySQL
-          level: 80%
+          name: Linux
+          level: 70%
         - skill:
           name: PostgreSQL
           level: 70%
@@ -177,12 +179,9 @@ skills:
           name: NoSQL
           level: 60%
         - skill:
-          name: Docker
-          level: 70%
-        - skill:
-          name: Linux
-          level: 70%
+          name: NLP
+          level: 60%
 
 
 footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'With <i class="fa fa-heart"></i> from <a href="https://github.com/chrisPiemonte" target="_blank" rel="nofollow">Chris Piemonte</a>. Last updated: 2019'
