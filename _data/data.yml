@@ -47,13 +47,13 @@ sidebar:
 
 career-profile: 
     title: Career
-    text: <h4>Data Scientist @ <a href="https://www.prometeia.it/home" target="_blank">Prometeia</a></h4> Uso of analytical, statistical, and programming skills to collect, analyze, and interpret large data sets. Development of data-driven solutions to difficult business challenges, mainly for banks and insurance companies. Development of rule-based systems, ETL solutions for Big Data analysis, Deep Learning models, analytical internal libraries.
+    text: <h6>Aug 2018 - present</h6> Uso of analytical, statistical, and programming skills to collect, analyze, and interpret large data sets. Development of data-driven solutions to difficult business challenges, mainly for banks and insurance companies. Development of rule-based systems, ETL solutions for Big Data analysis, Deep Learning models, analytical internal libraries.
 
 studies: 
     - education:
       degree: MSc in Computer Science
       university: University of Bari "aldo Moro
-      time: 2016 - current
+      time: 2016 - present
       details: "Curriculum: Knowledge Engineering and Machine Intelligence"
 
     - education:
