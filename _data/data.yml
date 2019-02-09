@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: Chris Piemonte
-    tagline: Software Developer
+    tagline: Data Scientist
     pic: prof.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -29,16 +29,16 @@ sidebar:
           idiom: English
           level: Professional
         
-    interests:
-        - interest:
-          item: 
-          link:
-        - interest:
-          item: 
-          link:
-        - interest:
-          item: 
-          link:
+    # interests:
+        # - interest:
+        #   item: 
+        #   link:
+        # - interest:
+        #   item: 
+        #   link:
+        # - interest:
+        #   item: 
+        #   link:
 
         
 
@@ -46,28 +46,24 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    - title: Da
+      text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
 studies: 
     - education:
       degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      university: University of Bari "aldo Moro
+      time: 2016 - current
+      details: "Curriculum: Knowledge Engineering and Machine Intelligence"
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: BSc in Computer Science
+      university: University of Bari "aldo Moro
+      time: 2011 - 2015
+      details: "Thesis about Web graph Clustering. In this thesis a new methodology for clustering Web pages is discussed, using Random Walks between pages, together with their textual content, to learn vector representations for nodes in the web graph. Url2vec is implemented to extract clusters of pages of the same semantic type. Unlike the clustering algorithms proposed in literature, Url2Vec does not consider a website as a collection of text documents independent from each other, but tries to combine information about the content of the pages and the structure of the website.
+
+The experimental results produced proved to be discreet and encouraged to follow the studies in this direction to identify new ways to improve the results achieved in terms of quality."
 
 
 projects:
@@ -77,67 +73,115 @@ projects:
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: url2vec
+        link: "https://github.com/chrisPiemonte/url2vec"
+        tagline: "Bachelor's thesis about Graph Clustering with word embeddings."
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: TripWalk
+        link: "https://github.com/chrisPiemonte/TripWalk"
+        tagline: "Random Walk generation on RDF graph."
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: GoShorty
+        link: "https://github.com/chrisPiemonte/GoShorty"
+        tagline: "Web Application | URL shortener service made with Redis - SparkJava - AngularJS."
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        title: crime-analysis
+        link: "https://github.com/chrisPiemonte/crime-analysis"
+        tagline: "Association Rule Mining from Spatial Data for Crime Analysis"
       - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        title: Fixture
+        link: "https://github.com/chrisPiemonte/Fixture"
+        tagline: "Web Application | Ticketing system made with PostgreSQL - Spring Boot - AngularJS."
+      - project:
+        title: sbd-severity-analysis
+        link: "https://github.com/chrisPiemonte/sbd-severity-analysis"
+        tagline: "Deep Learning (CNN) for prediction of severity in subjects suffering from sleep breathing disorders."
+      - project:
+        title: tapas
+        link: "https://github.com/chrisPiemonte/tapas"
+        tagline: "RDF types classification and clustering from RDF node embedding."
+      - project:
+        title: docker-hadoop-cluster
+        link: "https://github.com/chrisPiemonte/docker-hadoop-cluster"
+        tagline: "Hadoop cluster with docker-compose."
 
 
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+# publications:
+    # title: Publications
+    # intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    # publications:
+      # - paper:
+      #   title: 
+      #   authors: Donald E. Knuth
+      #   conference: Addison-Wesley, 1968
+      # - paper:
+      #   title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      # - paper:
+      #   title: A syntax directed compiler for Algol 60
+      #   authors: Edgar T. Irons
+      #   conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Java
+          level: 90%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Python
+          level: 90%
         - skill:
-          name: Angular
-          level: 98%
+          name: Scala
+          level: 70%
         - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+          name: Data Science
           level: 85%
         - skill:
-          name: Sketch & Photoshop
+          name: Software Engineering
+          level: 85%
+        - skill:
+          name: Artificial Intelligence
+          level: 90%
+        - skill:
+          name: Machine Learning
+          level: 90%
+        - skill:
+          name: Deep Learning
+          level: 80%
+        - skill:
+          name: Natural Language Processing
           level: 60%
+        - skill:
+          name: Spark
+          level: 70%
+        - skill:
+          name: Big Data
+          level: 70%
+        - skill:
+          name: SQL
+          level: 90%
+        - skill:
+          name: MySQL
+          level: 80%
+        - skill:
+          name: PostgreSQL
+          level: 70%
+        - skill:
+          name: Oracle
+          level: 60%
+        - skill:
+          name: NoSQL
+          level: 60%
+        - skill:
+          name: Docker
+          level: 70%
+        - skill:
+          name: Linux
+          level: 70%
 
 
 footer: 
