@@ -48,9 +48,6 @@ sidebar:
 career-profile: 
     title: Data Scientist @ <a href="https://www.prometeia.it/home" target="_blank">Prometeia</a>
     text: 'Uso of analytical, statistical, and programming skills to collect, analyze, and interpret large data sets. Development of data-driven solutions to difficult business challenges, mainly for banks and insurance companies. Development of rule-based systems, ETL solutions for Big Data analysis, Deep Learning models, analytical internal libraries.'
-    title: Data Scientist at <a href="https://www.prometeia.it/home" target="_blank">Prometeia</a>
-    text: 'Uso of analytical, statistical, and programming skills to collect, analyze, and interpret large data sets. Development of data-driven solutions to difficult business challenges, mainly for banks and insurance companies. Development of rule-based systems, ETL solutions for Big Data analysis, Deep Learning models, analytical internal libraries.'
-
 
 studies: 
     - education:
