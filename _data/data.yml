@@ -71,39 +71,39 @@ projects:
       - project:
         title: Url2Vec
         link: "https://github.com/chrisPiemonte/url2vec"
-        tagline: "Bachelor's thesis about Graph Clustering with word embeddings. In this thesis a new methodology for clustering Web pages is discussed, using Random Walks between pages, together with their textual content, to learn vector representations for nodes in the web graph. Url2vec is implemented to extract clusters of pages of the same semantic type. Unlike the clustering algorithms proposed in literature, Url2Vec does not consider a website as a collection of text documents independent from each other, but tries to combine information about the content of the pages and the structure of the website. Technologies: Scala, Python (Jupyter, Pandas, Plotly, Scikit-learn, Gensim, Word2vec), Git." <h6>ciao</> "ginopino"
+        tagline: Bachelor's thesis about Graph Clustering with word embeddings. In this thesis a new methodology for clustering Web pages is discussed, using Random Walks between pages, together with their textual content, to learn vector representations for nodes in the web graph. Url2vec is implemented to extract clusters of pages of the same semantic type. Unlike the clustering algorithms proposed in literature, Url2Vec does not consider a website as a collection of text documents independent from each other, but tries to combine information about the content of the pages and the structure of the website. Technologies: Scala, Python (Jupyter, Pandas, Plotly, Scikit-learn, Gensim, Word2vec), Git. <b>ciao</b> ginopino
       - project:
         title: TripWalk
         link: "https://github.com/chrisPiemonte/TripWalk"
-        tagline: "Random Walk generation on RDF graph. It produces paths inside the RDF graph (aka random walks) for each RDF resource for further analysis (see Tapas). Technologies: Scala (Jena, Scala-graph)."
+        tagline: Random Walk generation on RDF graph. It produces paths inside the RDF graph (aka random walks) for each RDF resource for further analysis (see Tapas). Technologies: Scala (Jena, Scala-graph).
       - project:
         title: GoShorty
         link: "https://github.com/chrisPiemonte/GoShorty"
-        tagline: "Web Application | URL shortener service made with Redis - SparkJava - AngularJS. Development of a WebApp, aimed at using concepts and methodologies of NoSQL DataBases and containerization of services. Technologies: Java (SparkJava, Maven), Redis, AngularJS, Docker (docker-compose), Git."
+        tagline: Web Application | URL shortener service made with Redis - SparkJava - AngularJS. Development of a WebApp, aimed at using concepts and methodologies of NoSQL DataBases and containerization of services. Technologies: Java (SparkJava, Maven), Redis, AngularJS, Docker (docker-compose), Git.
       - project:
         title: Crime Analysis
         link: "https://github.com/chrisPiemonte/crime-analysis"
-        tagline: "Association Rule Mining from Spatial Data for Crime Analysis. The aim of this project is to examine data regarding the spatial distribution of crimes committed within a year in the city of Charlotte - NC, USA. There are data collected from about 60,000 crimes, as well as district census data and information on commercial business activities. Therefore, the goal was to apply algorithms for the discovery of Association Rules to search for associations between the available information. The Knowledge Discovery process is applied and filters are applied to select only rules with the type of crime in the consequent, as those rules showed where, at the occurrence of the conditions present in the antecedent of the rule, that specific type of crime is more likely to manifest. Technologies: Python (jupyter, pandas, matplotlib, pymining, apyori, shapely, scikit-learn, word2vec)."
+        tagline: Association Rule Mining from Spatial Data for Crime Analysis. The aim of this project is to examine data regarding the spatial distribution of crimes committed within a year in the city of Charlotte - NC, USA. There are data collected from about 60,000 crimes, as well as district census data and information on commercial business activities. Therefore, the goal was to apply algorithms for the discovery of Association Rules to search for associations between the available information. The Knowledge Discovery process is applied and filters are applied to select only rules with the type of crime in the consequent, as those rules showed where, at the occurrence of the conditions present in the antecedent of the rule, that specific type of crime is more likely to manifest. Technologies: Python (jupyter, pandas, matplotlib, pymining, apyori, shapely, scikit-learn, word2vec).
       - project:
         title: Fixture
         link: "https://github.com/chrisPiemonte/Fixture"
-        tagline: "Web Application | Ticketing system made with PostgreSQL - Spring Boot - AngularJS. Development of a WebApp for the management of tickets and the history of a stadium, aimed at using the conceptual, logical and physical design methodologies of relational and object-relational DataBases. Technologies: Java (Spring Boot, Hibernate, Maven), PostgreSQL, AngularJS, Docker (docker-compose), Elastic Search, Logstash, Kibana, Git."
+        tagline: Web Application | Ticketing system made with PostgreSQL - Spring Boot - AngularJS. Development of a WebApp for the management of tickets and the history of a stadium, aimed at using the conceptual, logical and physical design methodologies of relational and object-relational DataBases. Technologies: Java (Spring Boot, Hibernate, Maven), PostgreSQL, AngularJS, Docker (docker-compose), Elastic Search, Logstash, Kibana, Git.
       - project:
         title: SBD Severity Analysis
         link: "https://github.com/chrisPiemonte/sbd-severity-analysis"
-        tagline: "Deep Learning (CNN) for prediction of severity in subjects suffering from sleep breathing disorders. The work carried out aims to use the Neural Networks to produce classification rules, with which diagnose the severity of Sleep Breathing Disorder through surveys carried out on patients. Knowledge Discovery process was applied to the data provided by the Department of Medical and Surgical Sciences of the University of Foggia and on these, various experiments were carried out using fully-connected and convolutional Neural Networks models. Technologies: Python (jupyter, tensorflow, pandas, matplotlib, scikit-learn)."
+        tagline: Deep Learning (CNN) for prediction of severity in subjects suffering from sleep breathing disorders. The work carried out aims to use the Neural Networks to produce classification rules, with which diagnose the severity of Sleep Breathing Disorder through surveys carried out on patients. Knowledge Discovery process was applied to the data provided by the Department of Medical and Surgical Sciences of the University of Foggia and on these, various experiments were carried out using fully-connected and convolutional Neural Networks models. Technologies: Python (jupyter, tensorflow, pandas, matplotlib, scikit-learn).
       - project:
         title: Tapas
         link: "https://github.com/chrisPiemonte/tapas"
-        tagline: "RDF types classification and clustering from RDF node embedding. Knowledge Discovery process to verify the quality of the vectorial representations learned by TripWalk through machine learning tasks. Technologies: Python (jupyter, pandas, scikit-learn, gensim, word2vec)."
+        tagline: RDF types classification and clustering from RDF node embedding. Knowledge Discovery process to verify the quality of the vectorial representations learned by TripWalk through machine learning tasks. Technologies: Python (jupyter, pandas, scikit-learn, gensim, word2vec).
       - project:
         title: CarLoan
         link: "https://github.com/chrisPiemonte/CarLoan"
-        tagline: "Desktop Application. Development of software for a car rental service aimed at using Software Engineering patterns and principles learned during the course of Software Engineering at University of Bari. Technologies: Java (Junit)."
+        tagline: Desktop Application. Development of software for a car rental service aimed at using Software Engineering patterns and principles learned during the course of Software Engineering at University of Bari. Technologies: Java (Junit).
       - project:
         title: Hadoop Cluster inside Docker containers
         link: "https://github.com/chrisPiemonte/docker-hadoop-cluster"
-        tagline: "Hadoop cluster with docker-compose. Containerization of an Hadoop installation of a master and two slaves, composed of HDFS, YARN and MapReduce. Technologies: Docker (docker-compose), Hadoop, bash."
+        tagline: Hadoop cluster with docker-compose. Containerization of an Hadoop installation of a master and two slaves, composed of HDFS, YARN and MapReduce. Technologies: Docker (docker-compose), Hadoop, bash.
 
 
 # publications:
