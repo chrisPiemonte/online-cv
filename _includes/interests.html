@@ -9,7 +9,7 @@
       {% if interest.link %}
         <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
         {% else %}
-        <li>{{ interest.item }} <span class="lang-desc">({{ interest.examples }})</span></li>
+        <li>{{ interest.item }} <span class="interest-desc">({{ interest.examples }})</span></li>
         {% endif %}
 
       {% endfor %}
