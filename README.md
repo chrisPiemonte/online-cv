@@ -3,7 +3,7 @@
 
 ## Online CV
 
-- [CV](https://chrispiemonte.github.io/online-cv/)
+- [Resume](https://chrispiemonte.github.io/online-cv/)
 - [GitHub](https://github.com/chrisPiemonte)
 - [LinkedIn](https://www.linkedin.com/in/cpiemonte)
 
