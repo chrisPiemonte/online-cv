@@ -55,7 +55,8 @@ sidebar:
 
 career-profile: 
     title: Career
-    text: <h4>Senior Data Scientist @ <a href="https://www.prometeia.it/en/data-science" target="_blank">Prometeia</a></h4>
+    text: |
+        "Computer | Data Scientist"
 
 studies: 
     - education:
@@ -63,8 +64,8 @@ studies:
       university: University of Bari "Aldo Moro" Curriculum Knowledge Engineering and Machine Intelligence
       time: 2016 - 2021
       details: |
-        Thesis about using state of the art Deep Learning and Computer Vision models to solve object detection
-        and segmentation tasks for automatic damage estimation.
+        Thesis about using state of the art Deep Learning and Computer Vision models to solve Object Detection
+        and Instance Segmentation tasks for automatic damage estimation.
 
     - education:
       degree: BSc in Computer Science
