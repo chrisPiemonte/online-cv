@@ -33,22 +33,23 @@ sidebar:
     interests:
         - interest:
           item: Books
-          examples: Michael Chabon, Thomas Pynchon, Cormac McCarthy, Philip K. Dick
-          link:
+          examples: Michael Chabon, Thomas Pynchon, Philip K. Dick
+        - interest:
+          item: Food
+          examples: Cooking, Eating
         - interest:
           item: Drink
-          examples: Beer, Whisky
+          examples: Beer and Whisky enthusiast
         - interest:
-          item: Drink
-          examples: Beer, Whisky
+          item: Nature
+          example: Trekking, Biking, 
+        - interest:
+          item: Traveling
+          
         #   link:
         # - interest:
         #   item: 
         #   link:
-
-        
-
-
 
 
 career-profile: 
