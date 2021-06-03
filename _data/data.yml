@@ -42,9 +42,10 @@ sidebar:
           examples: Beer and Whisky enthusiast
         - interest:
           item: Nature
-          example: Trekking, Biking, 
+          example: Trekking, Biking
         - interest:
           item: Traveling
+          example: To visit new places, to do new things
           
         #   link:
         # - interest:
@@ -54,7 +55,7 @@ sidebar:
 
 career-profile: 
     title: Career
-    text: <h4>Senior Data Scientist @ <a href="https://www.prometeia.it/en/data-science" target="_blank">Prometeia</a></h4><h5>Aug 2018 - present</h5>
+    text: <h4>Senior Data Scientist @ <a href="https://www.prometeia.it/en/data-science" target="_blank">Prometeia</a></h4>
 
 studies: 
     - education:
