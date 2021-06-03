@@ -246,10 +246,7 @@ skills:
           name: NoSQL
           level: 60%
         - skill:
-          name: Hadoop
-          level: 60%
-        - skill:
-          name: NLP
+          name: Natural Language Processing
           level: 60%
         - skill:
           name: Frontend
