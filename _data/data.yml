@@ -5,7 +5,7 @@
 sidebar:
     # Site Settings
     title: My Resume
-    url: 'https://chrispiemonte.github.io/online-cv'
+    url: 'https://chrispiemonte.github.io/cv'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
@@ -35,8 +35,12 @@ sidebar:
           item: Books
           examples: Michael Chabon, Thomas Pynchon, Cormac McCarthy, Philip K. Dick
           link:
-        # - interest:
-        #   item: 
+        - interest:
+          item: Drink
+          examples: Beer, Whisky
+        - interest:
+          item: Drink
+          examples: Beer, Whisky
         #   link:
         # - interest:
         #   item: 
@@ -49,22 +53,62 @@ sidebar:
 
 career-profile: 
     title: Career
-    text: <h4>Data Scientist @ <a href="https://www.prometeia.it/en/data-science" target="_blank">Prometeia</a></h4><h5>Aug 2018 - present</h5> Uso of analytical, statistical, and programming skills to collect, analyze, and interpret large data sets. Development of data-driven solutions to difficult business challenges, mainly for banks and insurance companies. Development of rule-based systems, ETL solutions for Big Data analysis, Deep Learning models, analytical internal libraries.
+    text: <h4>Senior Data Scientist @ <a href="https://www.prometeia.it/en/data-science" target="_blank">Prometeia</a></h4><h5>Aug 2018 - present</h5>
 
 studies: 
     - education:
       degree: MSc in Computer Science
-      university: University of Bari "Aldo Moro"
-      time: 2016 - present
-      details: "Curriculum: Knowledge Engineering and Machine Intelligence"
+      university: University of Bari "Aldo Moro" - Curriculum: Knowledge Engineering and Machine Intelligence
+      time: 2016 - 2021
+      details: |
+        Thesis about using state of the art Deep Learning and Computer Vision models to solve object detection
+        and segmentation tasks for automatic damage estimation.
 
     - education:
       degree: BSc in Computer Science
       university: University of Bari "Aldo Moro"
       time: 2011 - 2015
-      details: "Thesis about Web graph Clustering. In this thesis a new methodology for clustering Web pages is discussed, using Random Walks between pages, together with their textual content, to learn vector representations for nodes in the web graph. Url2vec is implemented to extract clusters of pages of the same semantic type. Unlike the clustering algorithms proposed in literature, Url2Vec does not consider a website as a collection of text documents independent from each other, but tries to combine information about the content of the pages and the structure of the website. The experimental results produced proved to be discreet and encouraged to follow the studies in this direction to identify new ways to improve the results achieved in terms of quality."
+      details: |
+        Thesis about Web graph Clustering. In this thesis a new methodology 
+        for clustering Web pages is discussed, using Random Walks between pages, 
+        together with their textual content, to learn vector representations 
+        for nodes in the web graph. Url2vec is implemented to extract clusters 
+        of pages of the same semantic type. Unlike the clustering algorithms 
+        proposed in literature, Url2Vec does not consider a website as a 
+        collection of text documents independent from each other, but tries to 
+        combine information about the content of the pages and the structure 
+        of the website. The experimental results produced proved to be discreet 
+        and encouraged to follow the studies in this direction to identify new 
+        ways to improve the results achieved in terms of quality.
 
+experiences:
 
+    - role: Senior Data Scientist
+      time: 2020 - Present
+      company: Prometeia, Milan
+      details: |
+        Working on business assets involving Natural Language Processing 
+        techniques for proceess automation of areas of banks and insurance 
+        companies. Currently developing inernal libraries for text analytics 
+        and graph analysis.
+          
+    - role: Data Scientist
+      time: 2019 - 2020
+      company: Prometeia, Milan
+      details: |
+        Research and development of multiple Deep learning models to solve Object Detection 
+        and Instance Segmentation tasks to identify, provided a set of pictures 
+        from a claim, a solid evaluation of the repair costs.
+        
+    - role: Junior Data Scientist, Internship
+      time: 2018 - 2019
+      company: Prometeia, Milan
+      details: |
+        Use of analytical, statistical, and programming skills to collect, 
+        analyze, and interpret large data sets. Development of data-driven 
+        solutions to difficult business challenges, mainly for banks and 
+        insurance companies. Development of rule-based systems, ETL solutions 
+        for Big Data analysis, analytical internal libraries, using scala and spark.
 projects:
     title: Projects
     intro: "A list of relevant public projects on my GitHub profile."
@@ -145,10 +189,28 @@ skills:
           name: Software Engineering
           level: 85%
         - skill:
+          name: Functional Programming
+          level: 80%
+        - skill:
           name: Deep Learning
           level: 80%
         - skill:
+          name: Pandas
+          level: 98%
+        - skill:
           name: MySQL
+          level: 80%
+        - skill:
+          name: Spacy
+          level: 80%
+        - skill:
+          name: Scikit-learn
+          level: 80%
+        - skill:
+          name: Tensorflow
+          level: 80%
+        - skill:
+          name: Backend
           level: 80%
         - skill:
           name: Scala
@@ -172,6 +234,12 @@ skills:
           name: Oracle
           level: 60%
         - skill:
+          name: MLOps
+          level: 60%
+        - skill:
+          name: DevOps
+          level: 60%
+        - skill:
           name: NoSQL
           level: 60%
         - skill:
@@ -180,6 +248,9 @@ skills:
         - skill:
           name: NLP
           level: 60%
+        - skill:
+          name: Frontend
+          level: 50%
 
 
 footer: 
