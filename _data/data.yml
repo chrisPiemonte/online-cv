@@ -177,17 +177,11 @@ skills:
           name: Python
           level: 90%
         - skill:
-          name: Artificial Intelligence
-          level: 90%
-        - skill:
           name: Machine Learning
           level: 90%
         - skill:
           name: SQL
           level: 90%
-        - skill:
-          name: Data Science
-          level: 85%
         - skill:
           name: Software Engineering
           level: 85%
