@@ -42,10 +42,10 @@ sidebar:
           examples: Beer and Whisky enthusiast
         - interest:
           item: Nature
-          example: Trekking, Biking
+          examples: Trekking, Biking
         - interest:
           item: Traveling
-          example: To visit new places, to do new things
+          examples: To visit new places, to do new things
           
         #   link:
         # - interest:
