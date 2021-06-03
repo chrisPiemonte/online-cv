@@ -59,7 +59,7 @@ career-profile:
 studies: 
     - education:
       degree: MSc in Computer Science
-      university: University of Bari "Aldo Moro" - Curriculum: Knowledge Engineering and Machine Intelligence
+      university: University of Bari "Aldo Moro", Curriculum: Knowledge Engineering and Machine Intelligence
       time: 2016 - 2021
       details: |
         Thesis about using state of the art Deep Learning and Computer Vision models to solve object detection
